@@ -10,10 +10,10 @@ I'm building a career in **offensive security / penetration testing**. This prof
 ## 🛠️ Skills I'm developing
 - Web app pentesting · Burp Suite · Network fundamentals · Linux · Python scripting
 
-<!--## 📓 Writeups
-See my [writeups repository](link-once-you-make-it) for documented labs and what I learned from each.
+## 📓 Writeups
+See my security-writeups https://github.com/thedivyeshkhatri/security-writeups for documented labs and what I learned from each.
 
-## 📫 Reach me
+<!--## 📫 Reach me
 - LinkedIn: [link] -->
 
 > ⚖️ Everything here is performed in authorized, legal environments — practice platforms, labs, and in-scope programs only.

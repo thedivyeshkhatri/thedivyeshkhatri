@@ -11,7 +11,7 @@ I'm building a career in **offensive security / penetration testing**. This prof
 - Web app pentesting · Burp Suite · Network fundamentals · Linux · Python scripting
 
 ## 📓 Writeups
-See my See my [security-writeups repository](https://github.com/thedivyeshkhatri/security-writeups) for documented labs and what I learned from each. for documented labs and what I learned from each.
+See my [security-writeups repository](https://github.com/thedivyeshkhatri/security-writeups) for documented labs and what I learned from each. for documented labs and what I learned from each.
 
 <!--## 📫 Reach me
 - LinkedIn: [link] -->

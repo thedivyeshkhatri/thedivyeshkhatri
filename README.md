@@ -11,8 +11,8 @@ I'm building a career in **offensive security / penetration testing**. This prof
 - Web app pentesting · Active Directory · Burp Suite · Network fundamentals · Linux · Python scripting
 
 ## 🧰 Projects
-- [security-tools](https://github.com/thedivyeshkhatri/security-tools) — custom tools and scripts I've built for pentesting and security automation
 - [security-writeups](https://github.com/thedivyeshkhatri/security-writeups) — documented labs and what I learned from each
+- [security-tools](https://github.com/thedivyeshkhatri/security-tools) — custom tools and scripts I've built for pentesting and security automation
 
 <!--## 📫 Reach me
 - LinkedIn: [link] -->
